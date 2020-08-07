@@ -1,0 +1,18 @@
+
+body:not(.navbar ) {
+    background-image: url("https://konachan.com/image/8891be43f322a52edb5ba1f45726fa04/Konachan.com%20-%2076541%20bell%20blonde_hair%20bow%20brown_hair%20catgirl%20chibi%20fang%20flowers%20group%20kiryuu_hina%20neko_koi%20pink_hair%20red_eyes%20ribbons%20short_hair%20skirt%20tail%20white_hair.jpg");
+}
+.container{
+    margin: 10px;
+    width: 1000px;
+  height: 1000px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+.imagem{
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+}
